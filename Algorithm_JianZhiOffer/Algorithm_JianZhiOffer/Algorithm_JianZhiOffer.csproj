@@ -42,8 +42,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="2StacksRepQueue.cs" />
+    <Compile Include="Fibonacci.cs" />
+    <Compile Include="FindKthToTail.cs" />
+    <Compile Include="IsPopOrder.cs" />
+    <Compile Include="Merge2Lists.cs" />
+    <Compile Include="MinStack.cs" />
+    <Compile Include="NumberOf1.cs" />
+    <Compile Include="Power.cs" />
+    <Compile Include="PrintListFromTailToHead.cs" />
+    <Compile Include="PrintMatrix.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RandomListNodeClone.cs" />
+    <Compile Include="ReConstructBinaryTree.cs" />
+    <Compile Include="ReOrderArray.cs" />
+    <Compile Include="ReverseLis.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

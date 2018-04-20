@@ -40,6 +40,7 @@ namespace Algorithm_JianZhiOffer
 
             return tTh;
         }
+ 
 
         /// <summary>
         /// 递归，超时???
@@ -53,9 +54,9 @@ namespace Algorithm_JianZhiOffer
                 tTh = PrintListFromTailToHeadRecursive(listNode.next);
                 tTh.Add(listNode.val);
             }
-
             return tTh;
         }
+
 
         /// <summary>
         /// 逆序链表
