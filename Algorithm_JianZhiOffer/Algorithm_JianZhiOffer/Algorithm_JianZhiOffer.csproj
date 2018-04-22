@@ -43,10 +43,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="2StacksRepQueue.cs" />
+    <Compile Include="DeleteDuplication.cs" />
+    <Compile Include="EntryNodeOfLoop.cs" />
     <Compile Include="Fibonacci.cs" />
+    <Compile Include="FindFirstCommonNode.cs" />
     <Compile Include="FindKthToTail.cs" />
     <Compile Include="IsPopOrder.cs" />
     <Compile Include="Merge2Lists.cs" />
+    <Compile Include="MinNumberInRotateArray.cs" />
     <Compile Include="MinStack.cs" />
     <Compile Include="NumberOf1.cs" />
     <Compile Include="Power.cs" />

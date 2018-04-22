@@ -14,7 +14,7 @@ namespace Algorithm_JianZhiOffer
         {
             this.label = x;
         }
-    }*
+    }
 
     class RandomListNodeClone
     {

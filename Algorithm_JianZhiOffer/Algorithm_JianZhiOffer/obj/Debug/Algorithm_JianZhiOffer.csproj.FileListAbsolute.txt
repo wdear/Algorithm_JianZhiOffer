@@ -1,0 +1,7 @@
+C:\Users\wd\Documents\GitHub\Algorithm_JianZhiOffer\Algorithm_JianZhiOffer\Algorithm_JianZhiOffer\obj\Debug\Algorithm_JianZhiOffer.csprojResolveAssemblyReference.cache
+C:\Users\wd\Documents\GitHub\Algorithm_JianZhiOffer\Algorithm_JianZhiOffer\Algorithm_JianZhiOffer\obj\Debug\Algorithm_JianZhiOffer.csproj.CoreCompileInputs.cache
+C:\Users\wd\Documents\GitHub\Algorithm_JianZhiOffer\Algorithm_JianZhiOffer\Algorithm_JianZhiOffer\bin\Debug\Algorithm_JianZhiOffer.exe.config
+C:\Users\wd\Documents\GitHub\Algorithm_JianZhiOffer\Algorithm_JianZhiOffer\Algorithm_JianZhiOffer\bin\Debug\Algorithm_JianZhiOffer.exe
+C:\Users\wd\Documents\GitHub\Algorithm_JianZhiOffer\Algorithm_JianZhiOffer\Algorithm_JianZhiOffer\bin\Debug\Algorithm_JianZhiOffer.pdb
+C:\Users\wd\Documents\GitHub\Algorithm_JianZhiOffer\Algorithm_JianZhiOffer\Algorithm_JianZhiOffer\obj\Debug\Algorithm_JianZhiOffer.exe
+C:\Users\wd\Documents\GitHub\Algorithm_JianZhiOffer\Algorithm_JianZhiOffer\Algorithm_JianZhiOffer\obj\Debug\Algorithm_JianZhiOffer.pdb
